@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: balck;
+    background-image: url('https://images7.alphacoders.com/132/1326332.jpeg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(28, 28, 28, 0.7);
+    border-radius: 10px;
+}
+
+h1, h2, h3 {
+    color:black;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, li {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul {
+    margin-top: 0.5em;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100
+}
+.descricao {
+    margin-right: 50%;
+}
